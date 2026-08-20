@@ -35,8 +35,8 @@ library(PopScape)
 
 set.seed(123)
 
-n_true_runs <- 10
-n_fit_reps  <- 10
+n_true_runs <- 50
+n_fit_reps  <- 50
 
 sample_sizes  <- c(50, 100, 300, 400)
 min_distances <- c(0, 50, 100, 200)  # metres for this projected landscape
