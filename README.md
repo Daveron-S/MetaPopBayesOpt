@@ -113,4 +113,4 @@ The optimisation results reported in the associated analysis are based on 20 ind
 
 ## Repository purpose
 
-This repository supports analyses investigating how sampling intensity and spatial separation affect reconstruction of a known metapopulation occupancy surface and parameter recovery in a hybrid SDM–metapopulation model, and how Bayesian optimisation can be used to examine parameter recovery and equifinality.
+This repository supports analyses investigating how sampling intensity and spatial separation affect reconstruction of a known metapopulation occupancy surface and parameter recovery in a hybrid SDM–metapopulation model, and how Bayesian optimisation can be used to examine parameter recovery and equifinality. And is used to produce the Figures in the manuscript Smith, Maclean, Baker 2026 Linking habitat suitability and metapopulation dynamics to predict species distributions.
