@@ -12,9 +12,8 @@ The repository contains two complementary simulation analyses.
 
 The first analysis examines how:
 
-- sampling intensity;
-- minimum spatial separation among sampling locations; and
-- incomplete occurrence information
+- incomplete occurrence information; and
+- minimum spatial separation among sampling locations;
 
 affect the ability of the hybrid SDM–metapopulation model to reconstruct a known landscape-wide occupancy surface.
 
